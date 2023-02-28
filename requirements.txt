@@ -1,0 +1,5 @@
+mercury
+numpy
+scipy
+matplotlib
+seaborn
