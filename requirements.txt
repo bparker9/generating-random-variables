@@ -1,4 +1,4 @@
-mercury
+panel
 numpy
 scipy
 matplotlib
